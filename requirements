@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+psutil
+openpyxl
+
+# Optional libraries (for enhanced analysis)
+gensim
+nltk
+wordcloud
